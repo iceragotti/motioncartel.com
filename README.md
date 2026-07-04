@@ -28,7 +28,7 @@ Dieses Projekt ist lizenziert unter der **Apache License 2.0**.
 Siehe Datei: `LIZENZ`
 
 ## Kontakt / Social Media
-- Instagram (bevorzugt): https://instagram.com/iceragotti  
+- Instagram (bevorzugt): https://instagram.com/icer.ragotti 
 - TikTok: iceragotti  
 
 ## Hinweis

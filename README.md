@@ -1,36 +1,56 @@
-# motioncartel.com  
-MOTION – Die Kreativplattform für Erwachsene von Ice Ragotti
+# Welcome to your Expo app 👋
 
-## Übersicht
-motioncartel ist eine neutrale, kommerziell nutzbare Creator‑Plattform für erwachsene Content‑Creator.  
-Ziel ist die Bereitstellung einer stabilen, skalierbaren und rechtlich klar definierten Infrastruktur für Uploads, Profile, Monetarisierung und Community‑Interaktion.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Projektstatus
-- Öffentliche Repository‑Struktur angelegt  
-- Apache‑2.0 Lizenz hinterlegt  
-- Weitere Module (Frontend, Backend, API, Dokumentation) folgen  
-- Projekt befindet sich im Aufbau
+## Get started
 
-## Ziele der Plattform
-- Bereitstellung einer sicheren und transparenten Creator‑Umgebung  
-- Klare Trennung zwischen öffentlicher Community‑Ansicht und internen Creator‑Funktionen  
-- Skalierbare technische Architektur für zukünftige Erweiterungen  
-- Kommerzielle Nutzung ohne Einschränkungen durch die Lizenz
+1. Install dependencies
 
-## Geplante Komponenten
-- **Frontend:** Benutzeroberfläche für Creator und Community  
-- **Backend:** Authentifizierung, Datenverarbeitung, Monetarisierungslogik  
-- **API:** Schnittstellen für Uploads, Profile, Token‑Systeme  
-- **Docs:** Technische Dokumentation, Architektur, Roadmap  
+   ```bash
+   npm install
+   ```
 
-## Lizenz
-Dieses Projekt ist lizenziert unter der **Apache License 2.0**.  
-Siehe Datei: `LIZENZ`
+2. Start the app
 
-## Kontakt / Social Media
-- Instagram (bevorzugt): https://instagram.com/ice.ragotti 
-- TikTok: iceragotti  
+   ```bash
+   npx expo start
+   ```
 
-## Hinweis
-Dieses Repository dient der strukturierten Entwicklung, Dokumentation und Erweiterung der Plattform motioncartel.  
-Alle Inhalte werden neutral, sachlich und nachvollziehbar dokumentiert.
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+### Other setup steps
+
+- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
+- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
+- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
